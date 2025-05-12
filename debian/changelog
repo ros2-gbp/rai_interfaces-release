@@ -1,0 +1,22 @@
+ros-jazzy-rai-interfaces (0.2.2-1noble) noble; urgency=high
+
+  * Add action_msgs dependency for humble compatibility
+  * Add maintainers to package.xml
+  * Contributors: Kacper Dąbrowski
+
+ -- Adam Dabrowski <adam.dabrowski@robotec.ai>  Tue, 29 Apr 2025 22:00:00 -0000
+
+ros-jazzy-rai-interfaces (0.2.1-1noble) noble; urgency=high
+
+  * feat: add conversation id to HRI message (#480 <https://github.com/RobotecAI/rai_interfaces/issues/480>)
+  * feat: unified ROS2 hri message (#416 <https://github.com/RobotecAI/rai_interfaces/issues/416>)
+  * feat: add ManipulatorMoveTo service definition
+  * feat: add tool for getting segmentations
+  * feat: basic implementation stub of grabbing point tool
+  * feat: add tool for open-set detection using grounding dino (#215 <https://github.com/RobotecAI/rai_interfaces/issues/215>)
+  * feat: Task and TaskFeedback actions
+  * Contributors: Adam Dąbrowski, Bartek Boczek, Kacper Dąbrowski, Kajetan Rachwał, Maciej Majek, rachwalk
+
+ -- Adam Dabrowski <adam.dabrowski@robotec.ai>  Sun, 27 Apr 2025 22:00:00 -0000
+
+
