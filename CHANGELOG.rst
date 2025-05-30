@@ -2,6 +2,12 @@
 Changelog for package rai_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.0 (2025-05-30)
+------------------
+* Add `EmbodimentInfo` service
+  Co-authored-by: Maciej Majek <maciej.majek@robotec.ai>
+* Contributors: Bartłomiej Boczek, Kacper Dąbrowski, Maciej Majek
+
 0.2.2 (2025-04-30)
 ------------------
 * Add action_msgs dependency for humble compatibility
